@@ -4,3 +4,5 @@ Course website for GEOG 510
 This is a test
 
 add a new line
+
+add a 3rd line
