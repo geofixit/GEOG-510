@@ -1,16 +1,14 @@
-# GEOG-510
-Course website for GEOG 510
+Course website: https://sites.google.com/utk.edu/geog...
+YouTube playlist: https://gishub.org/gsd-sp23
 
-This is a test
+leafmap homepage: https://leafmap.org
+geemap homepage: https://geemap.org
+GitHub: https://github.com/giswqs/geemap
+Twitter: https://twitter.com/giswqs
+YouTube channel:   
 
-add a new line
-
-add a 3rd line
-
-add a 4th line code
-
-add a 5th line from work laptop
-
-add 6th line to my code on local machine
-
-
+ / @giswqs  
+GEE Tutorials Playlist: https://gishub.org/youtube-gee
+Leafmap Tutorials Playlist: https://gishub.org/youtube-leafmap
+Geographic Software Design Playlist: https://gishub.org/gsd
+Spatial Data Management Playlist: https://gishub.org/sdm
